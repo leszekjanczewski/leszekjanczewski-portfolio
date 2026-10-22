@@ -11,7 +11,7 @@ leszek.janczewski@gmail.com
 
 ## Profil zawodowy
 
-Java Backend Developer z doświadczeniem w systemach enterprise, aplikacjach JBoss/WildFly i usługach Spring Boot. Pracuję z Javą, REST, JPA/Hibernate, relacyjnymi bazami danych oraz kodem legacy wymagającym diagnozy, stabilizacji i stopniowej modernizacji.
+Java Backend Developer z doświadczeniem w systemach enterprise, aplikacjach JBoss/WildFly i usługach Spring Boot. Pracuję z Javą 17 i 21, REST, JPA/Hibernate, relacyjnymi bazami danych oraz kodem legacy wymagającym diagnozy, stabilizacji i stopniowej modernizacji.
 
 Mam doświadczenie w implementacji zmian, analizie błędów, utrzymaniu systemów i współpracy z zespołami analitycznymi oraz testowymi. Zależy mi na czytelnym kodzie, praktycznych rozwiązaniach i rozumieniu wpływu zmian na istniejący system.
 
@@ -21,7 +21,7 @@ Mam doświadczenie w implementacji zmian, analizie błędów, utrzymaniu system�
 
 ### Backend
 
-- Java 11/17 w pracy zawodowej, Java 21 w projektach własnych
+- Java 17/21 w pracy zawodowej; po migracji utrzymuję kod na Java 21
 - Spring, Spring Boot
 - JPA, Hibernate
 - REST API i kontrakty usług
